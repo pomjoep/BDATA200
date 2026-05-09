@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/BDATA200_Notebook/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.14" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (BDATA200)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
